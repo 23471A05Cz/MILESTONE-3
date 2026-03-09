@@ -1,24 +1,25 @@
 # 💬 Chatterbox Chat Application – Outputs
 
-## Figure 1: User1 Join Chat Interface
-<img width="649" height="586" alt="Screenshot 2026-03-09 204706" src="https://github.com/user-attachments/assets/88e8480d-c59d-4dbd-b11c-995173044a02" />
+## Figure 1: User 1 Selecting a Chat Room
+<img width="702" height="755" alt="User1 Select Room" src="https://github.com/user-attachments/assets/76025b75-5287-45d6-9d20-c7fcb1e7e236" />
 
+## Figure 2: User 1 Joined the Room with Typing Indicator
+<img width="650" height="766" alt="User1 Joined Room" src="https://github.com/user-attachments/assets/dcf6ce3a-b934-42a9-b2ea-a3fb2130fc31" />
 
-## Figure 2: User Joined Notification With Typing Indicator.
-<img width="731" height="794" alt="Screenshot 2026-03-09 213905" src="https://github.com/user-attachments/assets/a93bd4aa-5ca6-46c8-ad67-721fe8e13dee" />
+## Figure 3: User 1 Sending a Message in the Chat
+<img width="654" height="761" alt="User1 Message" src="https://github.com/user-attachments/assets/0aba6527-a542-42b9-9eee-16349572f6d7" />
 
+## Figure 4: User 2 Selecting a Chat Room
+<img width="691" height="746" alt="User2 Select Room" src="https://github.com/user-attachments/assets/773468a4-ef02-46f7-bd9e-8b6fc27c2b21" />
 
-## Figure 3: User1 Sent The Some message.
-<img width="731" height="794" alt="Screenshot 2026-03-09 213905" src="https://github.com/user-attachments/assets/23101ba0-303f-43c9-b148-f489bc337641" />
+## Figure 5: User 2 Joined the Room with Typing Indicator
+<img width="632" height="749" alt="User2 Joined Room" src="https://github.com/user-attachments/assets/180bba7c-80d3-4cf8-bade-943c585ca210" />
 
+## Figure 6: User 2 Sending a Message in the Chat
+<img width="683" height="729" alt="User2 Message" src="https://github.com/user-attachments/assets/d232fe09-37cc-48c5-ae0b-91d12b2e8603" />
 
-## Figure 4: User2 Join Chat Interface 
-<img width="731" height="794" alt="Screenshot 2026-03-09 213905" src="https://github.com/user-attachments/assets/8ab8cb0d-6696-4a64-b00a-3cacd1cef32e" />
+## Figure 7: Chat Interface Showing Conversation Between User 1 and User 2
+<img width="668" height="760" alt="Chat Interface" src="https://github.com/user-attachments/assets/2c892968-5e83-4326-814c-4677cee6e417" />
 
-
-## Figure 5: User2 Sent The Some message.
-<img width="784" height="780" alt="Screenshot 2026-03-09 214003" src="https://github.com/user-attachments/assets/7a511edf-bfc0-405c-acf8-31bbb33b3d21" />
-
-
-## Figure 6: User2 Left the Room.
-<img width="767" height="833" alt="Screenshot 2026-03-09 214014" src="https://github.com/user-attachments/assets/c528b6b2-fb04-4c46-a49e-4e1cc5166b55" />
+## Figure 8: User 2 Leaving the Chat Room
+<img width="684" height="752" alt="User2 Left Room" src="https://github.com/user-attachments/assets/124b8805-2cf8-47bd-884e-c5d94a0a5213" />
